@@ -39,8 +39,8 @@ In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm 
 ## Output:
 ![image](https://github.com/22002525karthikeyan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118708040/dcbe1105-3138-4707-9b53-ec28fca07fe2)
 ```
-### Name: M.SUWETHA
-### Register Number: 212221230112
+Name: M.SUWETHA
+Register Number: 212221230112
 ```
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
