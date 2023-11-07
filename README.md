@@ -2,17 +2,17 @@
 
 ## DATE: 26/09/2023
 ## AIM:
-###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
-###   In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm long and rotates at 100 rpm clockwise, while the link CD = 60mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 600.
+To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
+In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm long and rotates at 100 rpm clockwise, while the link CD = 60mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 600.
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 ## REQUIREMENTS:
-###  ●	Mech Analyzer software.
-###  ●	Processor: Minimum 1.5 GHz
-###  ●	RAM: Minimum 512 MB
-###  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
-###  ●	Dependencies: Microsoft .Net 2.0 framework
-###  ●	Mini Drafter.
-###  ●	Geometry instruments.
+●	Mech Analyzer software.
+●	Processor: Minimum 1.5 GHz
+●	RAM: Minimum 512 MB
+●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
+●	Dependencies: Microsoft .Net 2.0 framework
+●	Mini Drafter.
+●	Geometry instruments.
 ## PROCEDURE:
 ###   1. Draw a horizontal line AD of length 120 mm. 
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
@@ -38,7 +38,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 ## Output:
 ![image](https://github.com/22002525karthikeyan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118708040/dcbe1105-3138-4707-9b53-ec28fca07fe2)
-### Name: Karthikeyan R
-### Register Number: 212222240046
+```
+### Name: M.SUWETHA
+### Register Number: 212221230112
+```
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
